@@ -71,5 +71,5 @@ Use GitHub Issues or the mailing list to post your comments or questions.
 PyLMD is a free Open Source software released under the MIT license.
 
 
-Lin, Q., 2020. **Python Implementation Of Local Mean Decomposition Algorithm.**
+Q. W. Lin, 2020. **Python Implementation Of Local Mean Decomposition Algorithm.**
 (https://github.com/shownlin/PyLMD)
